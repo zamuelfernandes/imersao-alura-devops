@@ -1,0 +1,15 @@
+# Git
+.git
+.gitignore
+
+# Docker
+dockerfile
+.dockerignore
+
+# Python virtual environment
+venv/
+.venv/
+__pycache__/
+
+# Database file (should be managed with a volume)
+escola.db
